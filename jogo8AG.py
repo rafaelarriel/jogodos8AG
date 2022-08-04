@@ -1,5 +1,4 @@
-#Rafael Victor Marciano Arriel 201811050
-#Renan Fernandes Guimaraes 201711917
+
 
 import numpy as np
 from enum import Enum
